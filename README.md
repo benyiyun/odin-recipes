@@ -1,2 +1,1 @@
-This project is a recipe website
-Once completed, this project will demonstrate my skills in using html to create webpages and embed infomration onto the pages such as images, text and links.
+This project is a recipe website. Once completed, this project will demonstrate my skills in using html to create webpages and embed infomration onto the pages such as images, text and links.
